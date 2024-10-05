@@ -16,7 +16,12 @@ The Moving Matters mobile app was developed as part of a summer project at **Sal
 
   
 - **Social Networking**: Similar to platforms like Instagram and Twitter, the app allows users to share workouts, follow friends, and interact through posts and comments.
-  
+
+<img src="https://github.com/user-attachments/assets/8e89e83e-e260-4f7d-bf84-753bd99b9ccc" alt="IMG_4778 (1)" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/c6d43b1a-e047-49fb-b47b-91ea6c3d526d" alt="IMG_4778 (1)" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/e67c63da-2401-4d67-a982-7758afc7307c" alt="IMG_4778 (1)" width="200" height="400"/>
+
+
 - **Program Sharing**: Users can share their custom workout programs with the community, creating a collaborative and motivating environment.
   
 - **Workout Stat Tracking**: Users can track their progress with detailed workout statistics, including easy-to-use interfaces to visualize performance.
