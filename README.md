@@ -9,7 +9,7 @@ The Moving Matters mobile app was developed as part of a summer project at **Sal
 ## Features
 
 - **Workout Program Creation**: Users can create and customize workout programs based on their fitness goals and preferences.
-  ![IMG_4778 (1)](https://github.com/user-attachments/assets/45601d40-2087-4063-989d-a324af590f48)
+  <img src="https://github.com/user-attachments/assets/45601d40-2087-4063-989d-a324af590f48" alt="IMG_4778 (1)" width="400"/>
 
   
 - **Social Networking**: Similar to platforms like Instagram and Twitter, the app allows users to share workouts, follow friends, and interact through posts and comments.
