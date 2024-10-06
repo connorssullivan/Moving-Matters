@@ -13,22 +13,39 @@ The Moving Matters mobile app was developed as part of a summer project at **Sal
 <img src="https://github.com/user-attachments/assets/45601d40-2087-4063-989d-a324af590f48" alt="IMG_4778 (1)" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/3b52f418-b6dc-448f-8449-f28661da63f4" alt="IMG_4778 (1)" width="200" height="400"/>
 
-
-  
 - **Social Networking**: Similar to platforms like Instagram and Twitter, the app allows users to share workouts, follow friends, and interact through posts and comments.
 
 <img src="https://github.com/user-attachments/assets/8e89e83e-e260-4f7d-bf84-753bd99b9ccc" alt="IMG_4778 (1)" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/c6d43b1a-e047-49fb-b47b-91ea6c3d526d" alt="IMG_4778 (1)" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/e67c63da-2401-4d67-a982-7758afc7307c" alt="IMG_4778 (1)" width="200" height="400"/>
 
-
 - **Program Sharing**: Users can share their custom workout programs with the community, creating a collaborative and motivating environment.
-  
+
+<img src="https://github.com/user-attachments/assets/3e6ca681-db7c-4570-8b79-c88920184697" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/f246f6e8-ad4d-4af1-87b1-fbfb6103b515" alt="IMG_4782" width="200" height="400"/>
+
+
 - **Workout Stat Tracking**: Users can track their progress with detailed workout statistics, including easy-to-use interfaces to visualize performance.
+
+<img src="https://github.com/user-attachments/assets/d8b02d00-f90d-46ec-ac0c-b0aada3d823c" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/4281c2fe-9a7c-4070-bac3-ececfd1f0d11" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/1228b54b-8702-4737-9d22-f27f05149afd" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/2ec31f72-17c8-4734-9736-cec6a11218b3" alt="IMG_4782" width="200" height="400"/>
 
 - **Monthly Group Challenges**: The app hosts group challenges where users can compete, track progress, and win prizes.
 
+<img src="https://github.com/user-attachments/assets/beebc1f7-3083-4b0b-aa70-5d676963a497" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/7b2cee8e-6d01-4d2f-a97e-cac46c30d2db" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/82025f89-a2d3-4928-9de5-ded3dd1df28b" alt="IMG_4782" width="200" height="400"/>
+
+
+
+
 - **Secure Sign-In and Email Authentication**: Secure user authentication with email sign-in, powered by Firebase for backend support.
+
+<img src="https://github.com/user-attachments/assets/8d628a7c-b90a-493f-80e0-b8b078079a02" alt="IMG_4782" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/e772789b-9123-49e5-8129-13b280542ef1" alt="IMG_4782" width="200" height="400"/>
+
 
 ## Technologies Used
 
