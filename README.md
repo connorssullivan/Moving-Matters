@@ -67,6 +67,6 @@ As the lead developer, I was responsible for:
 Feel free to reach out if you'd like to learn more about the project or my experience:
 
 - **Email**: connorssullivan25@gmail.com
-- **Website**: connorsullivan.me
-- **LinkedIn**: linkedin.com/in/conor-sullivan-b24911254
+- **Website**: [connorsullivan.me](https://connorsullivan.me)
+- **LinkedIn**: [Conor Sullivan's LinkedIn](https://linkedin.com/in/conor-sullivan-b24911254)
 
